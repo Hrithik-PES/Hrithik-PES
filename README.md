@@ -1,11 +1,9 @@
 - 👋 Hi, I’m Hrithik HM
--    I am studying B-Tech in Computer Science and Engineering at PES University,Bangalore.
--    My Subjects are :-
--    1) Data Structures and Algorithms.
--    2) Web Development (Front-end and Back-end with MERN Stack Application).
--    3) Data Science.
--    4) Python,C,Java,HTML,CSS,JavaScript.
--    5) Machine Learning and Artificial Intelligence.
+-    Full Stack Developer at WNS Global Services with expertise in full stack 
+development. Skilled in frontend engineering, secure application 
+development, and designing architectures for complex systems. Passionate 
+about exploring new technologies and delivering high-performance 
+solutions. 
 
 <!---
 Hrithik-PES/Hrithik-PES is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
